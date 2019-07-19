@@ -1,0 +1,3 @@
+[harbor]
+h13 ansible_host=10.128.8.13 ansible_user=gf
+h14 ansible_host=10.128.8.14 ansible_user=gf
